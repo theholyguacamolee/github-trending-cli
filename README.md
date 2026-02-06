@@ -13,7 +13,7 @@ A beautiful command-line tool to discover trending GitHub repositories. View the
 ## 📸 Screenshot
 
 <!-- Insert your screenshot here -->
-![CLI Screenshot]
+
 <img width="960" height="511" alt="trending-repos" src="https://github.com/user-attachments/assets/734039c7-c129-41af-b103-3507e2df45d9" />
 
 <img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/fab81e22-2840-422b-b9f3-bdc56c9c70c1" />
